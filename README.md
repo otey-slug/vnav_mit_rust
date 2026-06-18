@@ -2,7 +2,7 @@
 
 A Rust-first reimplementation of selected concepts from MIT 16.485 / VNAV: Visual Navigation for Autonomous Vehicles.
 
-This repository is **not an official MIT course repository**. It is an independent learning project that rebuilds the core ideas of the VNAV labs in Rust, with an emphasis on safe robotics software, ROS 2 Rust nodes, geometric math, trajectory generation, visual odometry, and SLAM foundations.
+Note: This repository is **not an official MIT course repository**. It is an independent learning project that I will be incrementally updating, rebuilding the core ideas of the VNAV labs in Rust.
 
 ## Goals
 
@@ -14,7 +14,7 @@ This repository is **not an official MIT course repository**. It is an independe
 
 ## Original inspiration
 
-MIT VNAV is publicly available and licensed under CC BY 4.0. This repo should cite and link to the original course pages rather than copying large portions verbatim.
+MIT VNAV is publicly available and licensed under CC BY 4.0. This repo will cite and link to the original course pages rather than copying large portions verbatim.
 
 Original course: <https://vnav.mit.edu/>
 Original lab source code: <https://github.com/MIT-SPARK/VNAV-labs>
