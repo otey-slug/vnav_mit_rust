@@ -1,0 +1,14 @@
+[package]
+name = "vnav_lab2_rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "two_drone_tf"
+path = "src/main.rs"
+
+[dependencies]
+rclrs = "*"
+geometry_msgs = "*"
+builtin_interfaces = "*"
+nalgebra = "0.33"

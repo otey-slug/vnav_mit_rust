@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "crates/vnav_math",
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+license = "MIT"
+authors = ["Oliver Young"]
+repository = "https://github.com/otey-slug/vnav-rust"
